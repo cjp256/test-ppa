@@ -1,0 +1,12 @@
+Source: test-ppa
+Section: devel
+Priority: optional
+Maintainer: Chris Patterson <cjp256@gmail.com>
+Build-Depends: debhelper (>=11~)
+Standards-Version: 4.1.4
+Homepage: http://launchpad.net/~cjp256/test-ppa
+
+Package: test-ppa
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Test PPA installs.
