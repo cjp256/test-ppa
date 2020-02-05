@@ -1,3 +1,9 @@
+test-ppa (1.0-testppa-xenial3) xenial; urgency=low
+
+  * Update debhelper dependency.
+
+ -- Chris Patterson <cjp256@gmail.com>  Thu, 30 Jan 2020 09:42:49 -0500
+
 test-ppa (1.0-testppa-xenial2) xenial; urgency=low
 
   * Update compat.
