@@ -1,4 +1,4 @@
-test-ppa (1.0-testppa-focal1) focal; urgency=low
+test-ppa (1.0-testppa-bionic1) bionic; urgency=low
 
   * Initial release. 
 
